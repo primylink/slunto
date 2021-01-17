@@ -1,0 +1,45 @@
+{
+  "name": "Slunto - Truly Sawahlunto",
+  "short_name": "Slunto",
+  "start_url": "https://slunto.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#188fff",
+  "theme_color": "#5f01d1",
+  "description": "Slunto Brilliant berkomitmen menciptakan perubahan melalui inovasi kreatif untuk Sawahlunto kita dan dunia!",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-KI7-ft6tYr0/X_noQN_EONI/AAAAAAAAFSI/BDFjHLg5Z7I3p41-eUluux0XnxaKwg52gCLcBGAsYHQ/s0/favicon-slunto.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KI7-ft6tYr0/X_noQN_EONI/AAAAAAAAFSI/BDFjHLg5Z7I3p41-eUluux0XnxaKwg52gCLcBGAsYHQ/s0/favicon-slunto.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KI7-ft6tYr0/X_noQN_EONI/AAAAAAAAFSI/BDFjHLg5Z7I3p41-eUluux0XnxaKwg52gCLcBGAsYHQ/s0/favicon-slunto.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KI7-ft6tYr0/X_noQN_EONI/AAAAAAAAFSI/BDFjHLg5Z7I3p41-eUluux0XnxaKwg52gCLcBGAsYHQ/s0/favicon-slunto.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "URL Gambar 144 x 144 (PNG)",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KI7-ft6tYr0/X_noQN_EONI/AAAAAAAAFSI/BDFjHLg5Z7I3p41-eUluux0XnxaKwg52gCLcBGAsYHQ/s0/favicon-slunto.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KI7-ft6tYr0/X_noQN_EONI/AAAAAAAAFSI/BDFjHLg5Z7I3p41-eUluux0XnxaKwg52gCLcBGAsYHQ/s0/favicon-slunto.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
